@@ -31,7 +31,7 @@ import Loader from "../components/Loader";
 import { getAllUsers } from "../services/adminService";
 import { getAllTickets } from "../services/ticketService";
 
-const BACKEND_URL = "https://it-desk-help-backend.onrender.com";
+const BACKEND_URL = "your.onrender.com";
 
 const AdminDashboard = () => {
   const [users, setUsers] = useState([]);
