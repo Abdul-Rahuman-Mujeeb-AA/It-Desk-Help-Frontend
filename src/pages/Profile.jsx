@@ -18,7 +18,7 @@ import {
   deleteAccount,
 } from "../services/userService";
 
-const BACKEND_URL = "https://your-backend.onrender.com";
+const BACKEND_URL = "your-onrender.com";
 
 const Profile = () => {
   const navigate = useNavigate();
