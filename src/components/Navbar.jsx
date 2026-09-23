@@ -21,7 +21,7 @@ const Navbar = ({ onMenuClick }) => {
   };
 
   const profileImage = user.profileImage
-    ? `https://it-desk-help-backend.onrender.com/uploads/${user.profileImage}`
+    ? `your.onrender.com/uploads/${user.profileImage}`
     : null;
 
   return (
