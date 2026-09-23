@@ -286,7 +286,7 @@ const Login = () => {
         {/* Right Side - Background */}
         <div className="relative hidden lg:flex lg:w-1/2">
           <img
-            src="/src/assets/images/login-bg.jpg"
+            src="assets/images/login-bg.jpg"
             alt="IT Help Desk"
             className="absolute inset-0 object-cover w-full h-full"
           />
